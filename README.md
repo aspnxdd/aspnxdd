@@ -1,16 +1,14 @@
-### Hi there 👋
+### 😃 About
 
-<!--
-**aspnxdd/aspnxdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Arnau
 
-Here are some ideas to get you started:
+I am a Software Developer currently focused on TypeScript 💙, React ⚛️, Vue 💚, (Rust 🦀) and Anchor Framework ⚓.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My personal website is [this](https://arnau-portfolio.vercel.app/).
+
+### 💼 Some of my projects
+* ⚓ [Fragmentor](https://github.com/aspnxdd/fragmentor): Solana Program to fragment NFTs into small NFTs, then do the opposite process and claim back the original NFT.
+* 🎨 [Unhex](https://github.com/aspnxdd/unhex) - A NodeJS package to convert any RGB color to HEX, HSL color or viceversa.
+* 🦄 [Git horse](https://github.com/aspnxdd/git-horse) - git-horse is a git client for Desktop (WIP).
+* 🧩 [Sol RPC Flow](https://github.com/aspnxdd/sol-rpc) - Solana RPC Flow is a tool for sending requests to Solana JSON-RPC endpoints without having to write code.
+
