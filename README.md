@@ -4,7 +4,7 @@ Hey, I'm Arnau
 
 I am a Software Developer currently focused on TypeScript 💙, React ⚛️, Vue 💚, (Rust 🦀) and Anchor Framework ⚓.
 
-My personal website is [this](https://arnau-portfolio.vercel.app/).
+My personal website is [this](https://arnau-site.vercel.app/).
 
 ### 💼 Some of my projects
 * ⚓ [Fragmentor](https://github.com/aspnxdd/fragmentor): Solana Program to fragment NFTs into small NFTs, then do the opposite process and claim back the original NFT.
