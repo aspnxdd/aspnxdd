@@ -15,5 +15,5 @@ My personal website is [this](https://arnau-site.vercel.app/).
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://pbs.twimg.com/profile_images/1797929667170545664/CneBhMtD_400x400.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/aspnxdd/fragmentor/main/fragmentor-app/public/ico.webp');]{x0000}$}
 
